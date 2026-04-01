@@ -7,3 +7,4 @@ Bindings to libflac, a simple library to decode FLAC files.
 | commit  | 5048ded                                        |
 | systems | cl-flac                                        |
 |---------+------------------------------------------------|
+ 
